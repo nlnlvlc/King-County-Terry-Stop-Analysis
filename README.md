@@ -88,9 +88,6 @@ Though a disparity is noticeable, officer race, demographics, and additional fea
 
 Frisk actions were able to be more strongly predicted looking at unique officers and ages, suggesting Frisks were more likely to be predicted by individual officers.
 
-
-As seen above, the model achieved a 90% recall score for the malignant class, along with a 79% recall score for the benign class. An overall accuracy score of 85% was attained. Other models had higher recall scores for the benign class, some as high as 86%, however, their recall scores for the malignant class was lower. 
-
 ## Conclusion:
 
 A <a href='https://5harad.com/papers/100M-stops.pdf?utm_source=The+Appeal&utm_campaign=3a050d7014-EMAIL_CAMPAIGN_2018_08_09_04_14_COPY_01&utm_medium=email&utm_term=0_72df992d84-3a050d7014-58394763'>study</a> examing over 90 Million traffic stops found that Black and Latinx subjects are stopped at nearly twice the rate as White subjects. While the study also found that rates of positive searches for contraband were fairly similar, they also noted that the threshold officers used to determine justifiable suspicion was much lower for Black and Latinx subjects. <a href='https://www.nap.edu/read/24928/chapter/9#252'>Other research</a> has shown that proactive policing in Black nieghborhoods has lead to more stops and police interactions with less than reasonable justification. This hyperfocus on Black neighborhoods and preventing crime contributes to higher rates of reported crime and Black subjects. Both studies highlight that these biases cannot be extrapolated from available data, alone.
